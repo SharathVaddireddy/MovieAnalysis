@@ -1,1 +1,3 @@
 # MovieAnalysis
+
+This project describes a data analysis study that combined two datasets sourced from Kaggle. To guarantee coherence, the datasets were combined using standardized identifiers through the use of Python programming. The integrity of the dataset was improved by giving careful validation and cleaning methods top priority. After that, the project's focus switched to data exploration and visualization, using the visualization packages available in Python to find patterns and trends. This project intends to offer significant insights into the film business, influencing future strategies and decisions through effective storage and maintenance utilizing MySQL and perceptive analysis tools.
